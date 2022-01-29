@@ -1,0 +1,136 @@
+body {
+    font-family: 'Brush Script MT', cursive;
+    background-color: rgb(0, 255, 0)
+}
+
+h1 {
+    background-color: orangered;
+    text-align: center;
+    font-size: 100px;
+}
+
+h2 {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: whitesmoke 2px 2px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+    border-radius: 100%;
+    border-color: rgb(183, 3, 255);
+    border-style: dotted;
+}
+
+p {
+    font-size: 35px;
+    text-align: center;
+    color: rgb(153, 0, 255);
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 30%;
+    margin-inline-end: 30%;
+    border-style: groove;
+    border-width: 30px;
+}
+
+h4 {
+    color: rgb(25, 0, 255);
+    font-family: serif;
+    text-decoration: tomato;
+    text-decoration: underline;
+    font-size: 30px;
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+li {
+    font-size: 30px;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 30%;
+    margin-inline-end: 30%;
+}
+
+form {
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 30%;
+    margin-inline-end: 30%;
+    background-color: turquoise;
+    text-align: center;
+    font-family: monospace;
+}
+
+input {
+    font-family: monospace;
+    font-size: 20px;
+}
+
+img {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 28%;
+    height: 28%;
+}
+
+table {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    border-style: solid;
+    border-right-color: tomato;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 30%;
+    margin-inline-end: 30%;
+    text-align: center;
+    font-size: 28px;
+}
+
+th {
+    text-align: center;
+    border-style: solid;
+    border-right-color: tomato;
+}
+
+tr {
+    text-align: center;
+    border-style: solid;
+    border-right-color: tomato;
+}
+
+td {
+    text-align: center;
+    border-style: solid;
+    border-right-color: tomato;
+}
+
+a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+#amazon-link {
+    text-align: center;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 41%;
+    margin-inline-end: 41%;
+    font-size: 48px;
+}
+
+.table-placement {
+    margin-left: auto;
+    margin-right: auto;
+}
